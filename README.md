@@ -3,13 +3,13 @@ This project focuses on analyzing Spotify music data to uncover trends, predict 
 
 This project is a data analysis and machine learning application built with Python. It analyzes audio features from songs to:
 
-**Predict song popularity (regression)
+Predict song popularity (regression)
 
 Classify the mood of a song (classification)
 
 Recommend songs using K-Nearest Neighbors (KNN)
 
-Generate mood-based playlists based on user input**
+Generate mood-based playlists based on user input
 
 Machine Learning Models Used
 Popularity Prediction:	Random Forest Regressor;	R² Score, RMSE
