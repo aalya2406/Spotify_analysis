@@ -1,6 +1,10 @@
 # Spotify_analysis
 This project focuses on analyzing Spotify music data to uncover trends, predict popularity, and recommend songs using machine learning. It combines exploratory data analysis, visualizations, and interactive prediction tools to gain insight into what makes a song popular.
 
+Datasets: 
+https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
+https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets
+
 This project is a data analysis and machine learning application built with Python. It analyzes audio features from songs to:
 
 Predict song popularity (regression)
